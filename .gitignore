@@ -1,0 +1,8 @@
+Debug/
+ipch/
+Win32/
+vk-messenger/Debug/
+vk-messenger/Resources/
+json-parser/Debug/
+json-parser/Release/
+json-parser/data.txt

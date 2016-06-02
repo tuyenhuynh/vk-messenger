@@ -1,0 +1,5 @@
+"{\"students\":[{"subject":"Socialogy","firstName":"Ho","lastName":"Quoc","quote":"I love deadlines. I love the whooshing 
+noise they make as they go by.","country":"Spain","object":{"field1":3.000000,"field2":"string1","field3":[4.000000,2.000000,1.000000,23.100000]},"weight":50.500000,"age":20.000000}]}"
+Unhandled exception at 0x0081b607 in json-parser.exe: 0xC00000FD: Stack overflow.
+
+reply = "{"response":{"count":23,"items":[{"id":76,"body":"abc","user_id":335737943,"from_id":329324297,"date":1448653268,"read_state":0,"out":1},{"id":75,"body":"abc","user_id":335737943,"from_id":329324297,"date":1448653256,"read_state":0,"out":1},{"id":70,"body"...
